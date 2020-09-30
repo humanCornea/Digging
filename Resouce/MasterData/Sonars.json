@@ -1,0 +1,26 @@
+{
+    "SonarList" : 
+    [
+        {
+            "id" : 1,
+            "name" : "GreenSonar",
+            "target" : "GreenOre",
+            "range" : 10,
+            "mpusage" : 10
+        },
+        {
+            "id" : 2,
+            "name" : "YellowSonar",
+            "target" : "YellowOre",
+            "range" : 10,
+            "mpusage" : 30
+        },
+        {
+            "id" : 3,
+            "name" : "RedSonar",
+            "target" : "RedOre",
+            "range" : 10,
+            "mpusage" : 100
+        }
+    ]
+}

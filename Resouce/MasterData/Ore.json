@@ -1,0 +1,37 @@
+{
+    "OreList": [
+        {
+            "id": 1,
+            "name": "GreenOre",
+            "point": 10,
+            "color": {
+                "r": 0.6,
+                "g": 0.7,
+                "b": 0.4,
+                "a": 1.0
+            }
+        },
+        {
+            "id": 2,
+            "name": "YellowOre",
+            "point": 30,
+            "color": {
+                "r": 1,
+                "g": 1,
+                "b": 0,
+                "a": 1.0
+            }
+        },
+        {
+            "id": 3,
+            "name": "RedOre",
+            "point": 100,
+            "color": {
+                "r": 1,
+                "g": 0,
+                "b": 0.4,
+                "a": 1.0
+            }
+        }
+    ]
+}

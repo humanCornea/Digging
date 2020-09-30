@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2386794e9bd454ce1bc8bf74acc467b2, type: 3}
+  m_Name: SaveDataManager
+  m_EditorClassIdentifier: 
+  testHP: 0
+  savedata:
+    MaxHP: 500
+    MaxMP: 0
+    numberOfOre: 0
+    MyBomb:
+      id: 0
+      name: 
+      range: 0
+      cost: 0
+      count: 0
+    BombList: []
+    MySonar:
+      id: 1
+      name: GreenSonar
+      target: GreenOre
+      range: 10
+      mpusage: 10
+      count: 0
+    SonarList:
+    - id: 1
+      name: GreenSonar
+      target: GreenOre
+      range: 10
+      mpusage: 10
+      count: 0
+    - id: 1
+      name: GreenSonar
+      target: GreenOre
+      range: 10
+      mpusage: 10
+      count: 0
+  MasterData: {fileID: 11400000, guid: f4122dbb4d7e647ceaaa4eaf20297f01, type: 2}
